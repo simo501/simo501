@@ -1,16 +1,23 @@
-### Hi there 👋
+```
+      ___                        ___           ___           ___           ___     
+     /  /\           ___        /  /\         /  /\         /  /\         /  /\    
+    /  /::\         /__/\      /  /::|       /  /::\       /  /::|       /  /::\   
+   /__/:/\:\        \__\:\    /  /:|:|      /  /:/\:\     /  /:|:|      /  /:/\:\  
+  _\_ \:\ \:\       /  /::\  /  /:/|:|__   /  /:/  \:\   /  /:/|:|__   /  /::\ \:\ 
+ /__/\ \:\ \:\   __/  /:/\/ /__/:/_|::::\ /__/:/ \__\:\ /__/:/ |:| /\ /__/:/\:\ \:\
+ \  \:\ \:\_\/  /__/\/:/~~  \__\/  /~~/:/ \  \:\ /  /:/ \__\/  |:|/:/ \  \:\ \:\_\/
+  \  \:\_\:\    \  \::/           /  /:/   \  \:\  /:/      |  |:/:/   \  \:\ \:\  
+   \  \:\/:/     \  \:\          /  /:/     \  \:\/:/       |__|::/     \  \:\_\/  
+    \  \::/       \__\/         /__/:/       \  \::/        /__/:/       \  \:\    
+     \__\/                      \__\/         \__\/         \__\/         \__\/    
+     
+```
 
-<!--
-**simo501/simo501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔝 **What's up?** 💍
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buongiorno cari, spero stiate passando una bella giornata 👍🏻
+ 
+> Tell my shooters call me FaceTime
+For all the times we had to face time
+Free D-Nice, he doin' state time
+If you need the glizzy, you could take mine

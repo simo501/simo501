@@ -11,10 +11,3 @@
                                       ░   ░         ░       ░ ░           ░    ░  ░
       
 ```
-
- 🔝 **What's up?** 💍
-
-Buongiorno cari, spero stiate passando una bella giornata 👍🏻
- 
-> Bubusettete usciamo da un Q7 
-<br>Ti leviamo le collane ma son falsi i VVS

@@ -12,6 +12,8 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Assembly IA-32](https://img.shields.io/badge/Assembly-IA32-525252?style=for-the-badge&logo=asm&logoColor=white)
+
 
 
 ## 🧰 Frameworks

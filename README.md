@@ -1,7 +1,8 @@
 
 # Simone Pandolfi
 
-Computer Engineering student at Sapienza University of Rome.
+Master's student in Computer Science at Sapienza University of Rome.
+Bachelor's degree in Computer Engineering from Sapienza University of Rome.
 
 ### Languages
 
